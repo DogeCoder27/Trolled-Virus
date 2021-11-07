@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Troll Face Virus/1.0.0": {
+        "runtime": {
+          "Troll Face Virus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Troll Face Virus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
